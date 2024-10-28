@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
-# Lingo - Interactive platform for language learning.
-
-![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
+# First Taal - Interactive platform for language learning.
 
 <!-- Table of Contents -->
 <details>
@@ -121,7 +119,7 @@ duolingo-clone/
 
 ## :toolbox: Getting Started
 
-1. Make sure **Git** and **NodeJS** is installed.
+1. Make sure **Git** and **NodeJS** are installed.
 2. Clone this repository to your local computer.
 3. Create `.env` file in **root** directory.
 4. Contents of `.env`:
