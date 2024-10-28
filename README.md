@@ -123,11 +123,6 @@ duolingo-clone/
 2. Clone this repository to your local computer.
 3. Create `.env` file in **root** directory.
 4. Contents of `.env`:
-
-```env
-
-```
-
 5. Obtain Clerk Authentication Keys
 
    1. **Source**: Clerk Dashboard or Settings Page
