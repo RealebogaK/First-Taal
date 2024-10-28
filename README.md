@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# First Taal - Interactive platform for language learning.
+# First Taal - Interactive platform made to learn new languages or polish your skills.
 
 <!-- Table of Contents -->
 <details>
