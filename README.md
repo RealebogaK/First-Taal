@@ -14,7 +14,7 @@
 Folder structure for this app.
 
 ```bash
-duolingo-clone/
+First-Taal/
   |- actions/
     |- challenge-progress.ts
     |- user-progress.ts
